@@ -10,7 +10,7 @@ I will be presenting my Home Assignment 3 for Neural Networks and Deep Learning,
 
 ---
 
-*Q1: Basic Autoencoder*  
+#*Q1: Basic Autoencoder*  
 - Loaded the MNIST dataset and reshaped images.
 - Built an encoder with 32 neurons and a decoder to reconstruct images.
 - Trained the model using binary cross-entropy and visualized the results.
