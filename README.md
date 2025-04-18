@@ -2,9 +2,8 @@
 
 Student Information
 Name: Jaswanth Reddy Donapati Course: CS5720 Neural Networks and Deep Learning
-Semester: Spring 2025
 University: University of Central Missouri
-Student ID : 700757646 Submission Date: 04/06/2025
+Student ID : 700757646 
 
 I will be presenting my Home Assignment 3 for Neural Networks and Deep Learning, covering autoencoders and RNNs. Let’s go through the code execution.
 
